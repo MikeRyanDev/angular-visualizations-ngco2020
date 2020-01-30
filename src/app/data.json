@@ -1,0 +1,18 @@
+[
+  { "year": 2002, "movies": 480 },
+  { "year": 2003, "movies": 506 },
+  { "year": 2004, "movies": 521 },
+  { "year": 2005, "movies": 547 },
+  { "year": 2006, "movies": 608 },
+  { "year": 2007, "movies": 632 },
+  { "year": 2008, "movies": 607 },
+  { "year": 2009, "movies": 520 },
+  { "year": 2010, "movies": 538 },
+  { "year": 2011, "movies": 601 },
+  { "year": 2012, "movies": 669 },
+  { "year": 2013, "movies": 689 },
+  { "year": 2014, "movies": 708 },
+  { "year": 2015, "movies": 706 },
+  { "year": 2016, "movies": 737 },
+  { "year": 2017, "movies": 740 }
+]
